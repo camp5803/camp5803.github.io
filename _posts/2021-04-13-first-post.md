@@ -3,4 +3,7 @@ title: "Readme"
 date: 2021-04-13 23:58:00 +0900
 categories: readme
 ---
-test
+#소개
+
+<img src="/img/gamsung.jpg width="300px" height="400px"/>
+#####Jung Jiyong
