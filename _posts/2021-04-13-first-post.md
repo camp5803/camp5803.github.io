@@ -5,7 +5,6 @@ categories: readme
 ---
 # 소개
 
-<img src="images/Simpson.png", width="1000">
-<p> <img src="/img/gamsung.jpeg> </p>
+<p> <img src="../img/gamsung.jpeg> </p>
 
 ##### Jung Jiyong
