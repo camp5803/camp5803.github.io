@@ -5,5 +5,5 @@ categories: readme
 ---
 # 소개
 
-<img src="/img/gamsung.jpeg width="300px" height="400px"></img><br/>
+![Alt text](/img/gamsung.jpeg){: width="300px" height="400px"}
 ##### Jung Jiyong
