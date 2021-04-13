@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://jiyongdev.github.io/"
+url: "https://camp5803.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -24,7 +24,7 @@ theme_settings:
   facebook: 
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "camp5803"
   gitter:
   google_plus:
   instagram:
