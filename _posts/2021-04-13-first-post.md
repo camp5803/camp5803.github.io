@@ -5,6 +5,6 @@ categories: readme
 ---
 # 소개
 
-<p> <img src="../img/gamsung.jpeg> </p>
+<img src="../img/gamsung.jpeg>
 
 ##### Jung Jiyong
