@@ -5,11 +5,11 @@ url: "https://camp5803.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Jiyong's Study
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Blog of a student who wants to become a Web Developer" # used by search engines
 
   # Header and footer text
   footer_text: >
@@ -21,13 +21,13 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook: 
+  facebook: "https://www.facebook.com/profile.php?id=100008302009757"
   flickr:
   gitlab:
   github: "camp5803"
   gitter:
   google_plus:
-  instagram:
+  instagram: "https://www.instagram.com/const_jiyong/"
   linkedin:  # Full URL
   pinterest:
   reddit:
